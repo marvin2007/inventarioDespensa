@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Ingenier\u00EDa en Sistemas\\III Semestre\\Programaci\u00F3n  I\\PROYECTO PROGRA\\Proyecto_Uni\\Proyecto_Uni\\appDespensa\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{080B3241-F05A-46A5-9A55-7D04901D4B4D}|appDespensa\\appDespensa.csproj|e:\\ingenier\u00EDa en sistemas\\iii semestre\\programaci\u00F3n  i\\proyecto progra\\proyecto_uni\\proyecto_uni\\appdespensa\\appdespensa\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{080B3241-F05A-46A5-9A55-7D04901D4B4D}|appDespensa\\appDespensa.csproj|solutionrelative:appdespensa\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{080B3241-F05A-46A5-9A55-7D04901D4B4D}|appDespensa\\appDespensa.csproj|e:\\ingenier\u00EDa en sistemas\\iii semestre\\programaci\u00F3n  i\\proyecto progra\\proyecto_uni\\proyecto_uni\\appdespensa\\appdespensa\\empleadoconsultas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{080B3241-F05A-46A5-9A55-7D04901D4B4D}|appDespensa\\appDespensa.csproj|solutionrelative:appdespensa\\empleadoconsultas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{080B3241-F05A-46A5-9A55-7D04901D4B4D}|appDespensa\\appDespensa.csproj|E:\\Ingenier\u00EDa en Sistemas\\III Semestre\\Programaci\u00F3n  I\\PROYECTO PROGRA\\Proyecto_Uni\\Proyecto_Uni\\appDespensa\\appdespensa\\productoconsultas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{080B3241-F05A-46A5-9A55-7D04901D4B4D}|appDespensa\\appDespensa.csproj|solutionrelative:appdespensa\\productoconsultas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{080B3241-F05A-46A5-9A55-7D04901D4B4D}|appDespensa\\appDespensa.csproj|E:\\Ingenier\u00EDa en Sistemas\\III Semestre\\Programaci\u00F3n  I\\PROYECTO PROGRA\\Proyecto_Uni\\Proyecto_Uni\\appDespensa\\appdespensa\\empleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{080B3241-F05A-46A5-9A55-7D04901D4B4D}|appDespensa\\appDespensa.csproj|solutionrelative:appdespensa\\empleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{080B3241-F05A-46A5-9A55-7D04901D4B4D}|appDespensa\\appDespensa.csproj|E:\\Ingenier\u00EDa en Sistemas\\III Semestre\\Programaci\u00F3n  I\\PROYECTO PROGRA\\Proyecto_Uni\\Proyecto_Uni\\appDespensa\\appdespensa\\agregarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{080B3241-F05A-46A5-9A55-7D04901D4B4D}|appDespensa\\appDespensa.csproj|solutionrelative:appdespensa\\agregarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "conexion.cs",
+              "DocumentMoniker": "E:\\Ingenier\u00EDa en Sistemas\\III Semestre\\Programaci\u00F3n  I\\PROYECTO PROGRA\\Proyecto_Uni\\Proyecto_Uni\\appDespensa\\appDespensa\\conexion.cs",
+              "RelativeDocumentMoniker": "appDespensa\\conexion.cs",
+              "ToolTip": "E:\\Ingenier\u00EDa en Sistemas\\III Semestre\\Programaci\u00F3n  I\\PROYECTO PROGRA\\Proyecto_Uni\\Proyecto_Uni\\appDespensa\\appDespensa\\conexion.cs",
+              "RelativeToolTip": "appDespensa\\conexion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T19:56:59.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "productoConsultas.cs",
+              "DocumentMoniker": "E:\\Ingenier\u00EDa en Sistemas\\III Semestre\\Programaci\u00F3n  I\\PROYECTO PROGRA\\Proyecto_Uni\\Proyecto_Uni\\appDespensa\\appDespensa\\productoConsultas.cs",
+              "RelativeDocumentMoniker": "appDespensa\\productoConsultas.cs",
+              "ToolTip": "E:\\Ingenier\u00EDa en Sistemas\\III Semestre\\Programaci\u00F3n  I\\PROYECTO PROGRA\\Proyecto_Uni\\Proyecto_Uni\\appDespensa\\appDespensa\\productoConsultas.cs",
+              "RelativeToolTip": "appDespensa\\productoConsultas.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAwwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T15:59:42.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "empleadoConsultas.cs",
+              "DocumentMoniker": "E:\\Ingenier\u00EDa en Sistemas\\III Semestre\\Programaci\u00F3n  I\\PROYECTO PROGRA\\Proyecto_Uni\\Proyecto_Uni\\appDespensa\\appDespensa\\empleadoConsultas.cs",
+              "RelativeDocumentMoniker": "appDespensa\\empleadoConsultas.cs",
+              "ToolTip": "E:\\Ingenier\u00EDa en Sistemas\\III Semestre\\Programaci\u00F3n  I\\PROYECTO PROGRA\\Proyecto_Uni\\Proyecto_Uni\\appDespensa\\appDespensa\\empleadoConsultas.cs",
+              "RelativeToolTip": "appDespensa\\empleadoConsultas.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAADwvzkAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T15:58:54.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "agregarProducto.cs",
+              "DocumentMoniker": "E:\\Ingenier\u00EDa en Sistemas\\III Semestre\\Programaci\u00F3n  I\\PROYECTO PROGRA\\Proyecto_Uni\\Proyecto_Uni\\appDespensa\\appDespensa\\agregarProducto.cs",
+              "RelativeDocumentMoniker": "appDespensa\\agregarProducto.cs",
+              "ToolTip": "E:\\Ingenier\u00EDa en Sistemas\\III Semestre\\Programaci\u00F3n  I\\PROYECTO PROGRA\\Proyecto_Uni\\Proyecto_Uni\\appDespensa\\appDespensa\\agregarProducto.cs",
+              "RelativeToolTip": "appDespensa\\agregarProducto.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAwwEQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T03:14:23.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "empleados.cs",
+              "DocumentMoniker": "E:\\Ingenier\u00EDa en Sistemas\\III Semestre\\Programaci\u00F3n  I\\PROYECTO PROGRA\\Proyecto_Uni\\Proyecto_Uni\\appDespensa\\appDespensa\\empleados.cs",
+              "RelativeDocumentMoniker": "appDespensa\\empleados.cs",
+              "ToolTip": "E:\\Ingenier\u00EDa en Sistemas\\III Semestre\\Programaci\u00F3n  I\\PROYECTO PROGRA\\Proyecto_Uni\\Proyecto_Uni\\appDespensa\\appDespensa\\empleados.cs",
+              "RelativeToolTip": "appDespensa\\empleados.cs",
+              "ViewState": "AQIAAJAAAAAAAAAAAAAIwJwAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T15:44:11.371Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+C:\Users\victo\Desktop\Proyecto_Uni\appDespensa\appDespensa\bin\Debug\appDespensa.exe.config
+C:\Users\victo\Desktop\Proyecto_Uni\appDespensa\appDespensa\bin\Debug\appDespensa.exe
+C:\Users\victo\Desktop\Proyecto_Uni\appDespensa\appDespensa\bin\Debug\appDespensa.pdb
+C:\Users\victo\Desktop\Proyecto_Uni\appDespensa\appDespensa\obj\Debug\appDespensa.csproj.AssemblyReference.cache
+C:\Users\victo\Desktop\Proyecto_Uni\appDespensa\appDespensa\obj\Debug\appDespensa.Properties.Resources.resources
+C:\Users\victo\Desktop\Proyecto_Uni\appDespensa\appDespensa\obj\Debug\appDespensa.csproj.GenerateResource.cache
+C:\Users\victo\Desktop\Proyecto_Uni\appDespensa\appDespensa\obj\Debug\appDespensa.csproj.CoreCompileInputs.cache
+C:\Users\victo\Desktop\Proyecto_Uni\appDespensa\appDespensa\obj\Debug\appDespensa.exe
+C:\Users\victo\Desktop\Proyecto_Uni\appDespensa\appDespensa\obj\Debug\appDespensa.pdb
+C:\Users\victo\Desktop\Proyecto_Uni\appDespensa\appDespensa\bin\Debug\MySql.Data.dll
+C:\Users\victo\Desktop\Proyecto_Uni\appDespensa\appDespensa\bin\Debug\System.Memory.dll
+C:\Users\victo\Desktop\Proyecto_Uni\appDespensa\appDespensa\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\victo\Desktop\Proyecto_Uni\appDespensa\appDespensa\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\victo\Desktop\Proyecto_Uni\appDespensa\appDespensa\bin\Debug\System.Buffers.dll
+C:\Users\victo\Desktop\Proyecto_Uni\appDespensa\appDespensa\bin\Debug\MySql.Data.xml
+C:\Users\victo\Desktop\Proyecto_Uni\appDespensa\appDespensa\obj\Debug\appDespensa.agregarProducto.resources
+C:\Users\victo\Desktop\Proyecto_Uni\appDespensa\appDespensa\obj\Debug\appDespensa.bienvenida.resources
+C:\Users\victo\Desktop\Proyecto_Uni\appDespensa\appDespensa\obj\Debug\appDespensa.Login.resources
+C:\Users\victo\Desktop\Proyecto_Uni\appDespensa\appDespensa\obj\Debug\appDespe.7B17CDFA.Up2Date
+C:\Users\victo\Desktop\Proyecto_Uni\appDespensa\appDespensa\obj\Debug\appDespensa.empleados.resources
+E:\Ingeniería en Sistemas\III Semestre\Programación  I\PROYECTO PROGRA\Proyecto_Uni\Proyecto_Uni\appDespensa\appDespensa\bin\Debug\appDespensa.exe.config
+E:\Ingeniería en Sistemas\III Semestre\Programación  I\PROYECTO PROGRA\Proyecto_Uni\Proyecto_Uni\appDespensa\appDespensa\bin\Debug\appDespensa.exe
+E:\Ingeniería en Sistemas\III Semestre\Programación  I\PROYECTO PROGRA\Proyecto_Uni\Proyecto_Uni\appDespensa\appDespensa\bin\Debug\appDespensa.pdb
+E:\Ingeniería en Sistemas\III Semestre\Programación  I\PROYECTO PROGRA\Proyecto_Uni\Proyecto_Uni\appDespensa\appDespensa\bin\Debug\System.Memory.dll
+E:\Ingeniería en Sistemas\III Semestre\Programación  I\PROYECTO PROGRA\Proyecto_Uni\Proyecto_Uni\appDespensa\appDespensa\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Ingeniería en Sistemas\III Semestre\Programación  I\PROYECTO PROGRA\Proyecto_Uni\Proyecto_Uni\appDespensa\appDespensa\bin\Debug\System.Numerics.Vectors.dll
+E:\Ingeniería en Sistemas\III Semestre\Programación  I\PROYECTO PROGRA\Proyecto_Uni\Proyecto_Uni\appDespensa\appDespensa\bin\Debug\System.Buffers.dll
+E:\Ingeniería en Sistemas\III Semestre\Programación  I\PROYECTO PROGRA\Proyecto_Uni\Proyecto_Uni\appDespensa\appDespensa\bin\Debug\MySql.Data.xml
+E:\Ingeniería en Sistemas\III Semestre\Programación  I\PROYECTO PROGRA\Proyecto_Uni\Proyecto_Uni\appDespensa\appDespensa\obj\Debug\appDespensa.csproj.AssemblyReference.cache
+E:\Ingeniería en Sistemas\III Semestre\Programación  I\PROYECTO PROGRA\Proyecto_Uni\Proyecto_Uni\appDespensa\appDespensa\obj\Debug\appDespensa.agregarProducto.resources
+E:\Ingeniería en Sistemas\III Semestre\Programación  I\PROYECTO PROGRA\Proyecto_Uni\Proyecto_Uni\appDespensa\appDespensa\obj\Debug\appDespensa.bienvenida.resources
+E:\Ingeniería en Sistemas\III Semestre\Programación  I\PROYECTO PROGRA\Proyecto_Uni\Proyecto_Uni\appDespensa\appDespensa\obj\Debug\appDespensa.empleados.resources
+E:\Ingeniería en Sistemas\III Semestre\Programación  I\PROYECTO PROGRA\Proyecto_Uni\Proyecto_Uni\appDespensa\appDespensa\obj\Debug\appDespensa.Login.resources
+E:\Ingeniería en Sistemas\III Semestre\Programación  I\PROYECTO PROGRA\Proyecto_Uni\Proyecto_Uni\appDespensa\appDespensa\obj\Debug\appDespensa.Properties.Resources.resources
+E:\Ingeniería en Sistemas\III Semestre\Programación  I\PROYECTO PROGRA\Proyecto_Uni\Proyecto_Uni\appDespensa\appDespensa\obj\Debug\appDespensa.csproj.GenerateResource.cache
+E:\Ingeniería en Sistemas\III Semestre\Programación  I\PROYECTO PROGRA\Proyecto_Uni\Proyecto_Uni\appDespensa\appDespensa\obj\Debug\appDespensa.csproj.CoreCompileInputs.cache
+E:\Ingeniería en Sistemas\III Semestre\Programación  I\PROYECTO PROGRA\Proyecto_Uni\Proyecto_Uni\appDespensa\appDespensa\obj\Debug\appDespe.7B17CDFA.Up2Date
+E:\Ingeniería en Sistemas\III Semestre\Programación  I\PROYECTO PROGRA\Proyecto_Uni\Proyecto_Uni\appDespensa\appDespensa\obj\Debug\appDespensa.exe
+E:\Ingeniería en Sistemas\III Semestre\Programación  I\PROYECTO PROGRA\Proyecto_Uni\Proyecto_Uni\appDespensa\appDespensa\obj\Debug\appDespensa.pdb
